@@ -67,5 +67,5 @@ Initialization with some custom options</h4>
 <div>
 <br /></div>
 <div>
-Download link on github<br />
-JsFiddle Example<br />
+
+<a href="http://jsfiddle.net/AnesHasicic/zgcgLt45/">JsFiddle Example</a>
