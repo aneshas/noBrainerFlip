@@ -1,0 +1,14 @@
+.flip-container {
+    width: 150px;
+    height: 150px;
+    position: relative;
+    background-color: #eee;
+    border: 1px solid #000;
+    float:left;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.flip-container img {
+    width: 100%;
+    height: 100%;
+}
